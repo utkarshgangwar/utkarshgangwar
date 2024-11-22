@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkarshgangwar
-- 👀 I’m interested in app development, be precise android
-- 🌱 I’m currently learning nodeJS Express, android with kotlin, Django Framework
-- 💞️ I’m looking to collaborate on android/Kotlin projects
+- 👀 I’m a fullstack developer.
+- 🌱 I’m currently learning dotnet.
+- 💞️ I’m looking to collaborate on NodeJS, ReactJS, Angular, VueJS dotnet projects.
 - 📫 How to reach me - utkarshonwork@gmail.com
 
 <!---
