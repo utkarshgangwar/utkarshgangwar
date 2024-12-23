@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkarshgangwar
-- 👀 I’m a fullstack developer.
-- 🌱 I’m currently learning dotnet.
-- 💞️ I’m looking to collaborate on NodeJS, ReactJS, Angular, VueJS dotnet projects.
+- 👀 NodeJS power!!
+- 🌱 I’m also trying again dotnet, android with kotlin.
+- 💞️ Coding now fascinates me.
 - 📫 How to reach me - utkarshonwork@gmail.com
 
 <!---
