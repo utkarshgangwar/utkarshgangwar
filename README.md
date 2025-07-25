@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @utkarshgangwar
-- 👀 NodeJS power!!
-- 🌱 I’m also trying again dotnet, android with kotlin.
-- 💞️ Coding now fascinates me.
+- 👀 Javascript
 - 📫 How to reach me - utkarshonwork@gmail.com
 
 <!---
